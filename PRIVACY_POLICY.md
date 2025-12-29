@@ -192,7 +192,7 @@ If you have questions, concerns, or requests regarding this Privacy Policy or yo
 
 **Email:** dailydewbible@gmail.com  
 **App Name:** Daily Dew Bible App  
-**Developer:** GroundTech
+**Developer:** DailyDewBible
 
 **Response Time:** We aim to respond to all inquiries within 48 hours.
 
