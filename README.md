@@ -4,8 +4,8 @@ This repository hosts the privacy policy and support page for the Daily Dew Bibl
 
 ## Live Pages
 
-- **Privacy Policy:** https://omarzintan.github.io/daily-dew-privacy/
-- **Support Page:** https://omarzintan.github.io/daily-dew-privacy/support.html
+- **Privacy Policy:** https://dailydewbible.github.io/daily-dew-bible-app/
+- **Support Page:** https://dailydewbible.github.io/daily-dew-bible-app/support.html
 
 ## About Daily Dew Bible App
 
