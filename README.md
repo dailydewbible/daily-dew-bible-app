@@ -24,7 +24,7 @@ Daily Dew Bible App is a mobile application that provides Bible reading, study t
 
 ## Updates
 
-Last Updated: December 20, 2025
+Last Updated: December 29, 2025
 
 ---
 
